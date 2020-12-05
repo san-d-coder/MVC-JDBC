@@ -1,4 +1,4 @@
-package com.sandcoder.restjdbc;
+package com.sandcoder.mvcjdbc;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
